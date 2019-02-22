@@ -1,0 +1,4 @@
+#Thu Apr 26 20:59:07 BRT 2018
+base.0=/home/ary/AndroidStudioProjects/SMARTBOX/app/build/intermediates/transforms/dexMerger/debug/36
+path.0=classes.dex
+renamed.0=classes.dex

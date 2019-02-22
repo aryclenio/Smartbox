@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "258426203002",
+    "firebase_url": "https://team-564f1.firebaseio.com",
+    "project_id": "team-564f1",
+    "storage_bucket": "team-564f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258426203002:android:92692f4ad3a1554d",
+        "android_client_info": {
+          "package_name": "com.example.ary.smartbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258426203002-ifobbu5rtlmrnosi91crkj4tv6it61id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApZiWQDQEufBxD0ML0Xd3npJvkSJJABPo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258426203002-ifobbu5rtlmrnosi91crkj4tv6it61id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
